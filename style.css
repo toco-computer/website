@@ -20,14 +20,12 @@ input[type="email"] {
 }
 
 input[type='submit'] {
-    background: white;
-    border: none;
-    border-bottom: #CCC 6px solid;
+  background: transparent;
+    border: 3px solid white;    
     padding: .4em 1em;
-    border-radius: 2px;
     font-size: 1em;
     margin-bottom: 2em;
-    color: #999;
+    color: white;
 }
 
 img.bg {
